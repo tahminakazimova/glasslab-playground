@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Aurora",
+        "type": "gradient",
+        "value": "radial-gradient(circle at top left,#4F46E5 0%,transparent 40%), radial-gradient(circle at bottom right,#06B6D4 0%,transparent 40%), #07111F"
+    },
+    {
+        "id": 2,
+        "name": "Purple Dream",
+        "type": "gradient",
+        "value": "linear-gradient(135deg,#5B21B6 0%,#312E81 45%,#111827 100%)"
+    },
+    {
+        "id": 3,
+        "name": "Ocean",
+        "type": "gradient",
+        "value": "linear-gradient(135deg,#0EA5E9,#1D4ED8,#0F172A)"
+    },
+    {
+        "id": 4,
+        "name": "Sunset",
+        "type": "gradient",
+        "value": "linear-gradient(135deg,#FB7185,#F97316,#FACC15)"
+    },
+    {
+        "id": 5,
+        "name": "Emerald",
+        "type": "gradient",
+        "value": "linear-gradient(135deg,#059669,#10B981,#064E3B)"
+    },
+    {
+        "id": 6,
+        "name": "Dark Space",
+        "type": "gradient",
+        "value": "linear-gradient(160deg,#020617,#0F172A,#1E293B)"
+    },
+    {
+        "id": 7,
+        "name": "Rose",
+        "type": "gradient",
+        "value": "linear-gradient(135deg,#EC4899,#BE185D,#831843)"
+    },
+    {
+        "id": 8,
+        "name": "Sky",
+        "type": "gradient",
+        "value": "linear-gradient(135deg,#38BDF8,#2563EB,#172554)"
+    }
+]

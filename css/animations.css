@@ -1,0 +1,71 @@
+.tab,
+button,
+#previewCard{
+    transition:all .25s ease;
+}
+
+#previewCard:hover{
+
+    transform:translateY(-6px);
+
+}
+
+button:active{
+
+    transform:scale(.97);
+
+}
+
+@keyframes fadeIn{
+
+    from{
+
+        opacity:0;
+        transform:translateY(10px);
+
+    }
+
+    to{
+
+        opacity:1;
+        transform:translateY(0);
+
+    }
+
+}
+
+.fade-in{
+
+    animation:fadeIn .35s ease;
+
+}
+
+@keyframes toast{
+
+    0%{
+
+        opacity:0;
+        transform:translateY(20px);
+
+    }
+
+    15%{
+
+        opacity:1;
+
+    }
+
+    85%{
+
+        opacity:1;
+
+    }
+
+    100%{
+
+        opacity:0;
+        transform:translateY(20px);
+
+    }
+
+}

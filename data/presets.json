@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Glass",
+        "category": "Glass",
+        "glass": {
+            "blur": 18,
+            "opacity": 0.12,
+            "borderOpacity": 0.18,
+            "radius": 28
+        },
+        "shadow": {
+            "x": 0,
+            "y": 20,
+            "blur": 45,
+            "spread": 0,
+            "opacity": 0.25,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Apple VisionOS",
+        "category": "Glass",
+        "glass": {
+            "blur": 32,
+            "opacity": 0.18,
+            "borderOpacity": 0.28,
+            "radius": 34
+        },
+        "shadow": {
+            "x": 0,
+            "y": 24,
+            "blur": 60,
+            "spread": -6,
+            "opacity": 0.22,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Windows Acrylic",
+        "category": "Glass",
+        "glass": {
+            "blur": 24,
+            "opacity": 0.15,
+            "borderOpacity": 0.22,
+            "radius": 18
+        },
+        "shadow": {
+            "x": 0,
+            "y": 14,
+            "blur": 35,
+            "spread": -4,
+            "opacity": 0.20,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Soft Glass",
+        "category": "Glass",
+        "glass": {
+            "blur": 40,
+            "opacity": 0.10,
+            "borderOpacity": 0.14,
+            "radius": 36
+        },
+        "shadow": {
+            "x": 0,
+            "y": 26,
+            "blur": 70,
+            "spread": -8,
+            "opacity": 0.30,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dark Card",
+        "category": "Dark",
+        "glass": {
+            "blur": 20,
+            "opacity": 0.08,
+            "borderOpacity": 0.12,
+            "radius": 24
+        },
+        "shadow": {
+            "x": 0,
+            "y": 18,
+            "blur": 50,
+            "spread": -4,
+            "opacity": 0.55,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Neumorphism Light",
+        "category": "Neumorphism",
+        "glass": {
+            "blur": 0,
+            "opacity": 1,
+            "borderOpacity": 0,
+            "radius": 28
+        },
+        "shadow": {
+            "x": 12,
+            "y": 12,
+            "blur": 30,
+            "spread": 0,
+            "opacity": 0.16,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Floating Card",
+        "category": "Shadow",
+        "glass": {
+            "blur": 14,
+            "opacity": 0.13,
+            "borderOpacity": 0.18,
+            "radius": 30
+        },
+        "shadow": {
+            "x": 0,
+            "y": 30,
+            "blur": 80,
+            "spread": -10,
+            "opacity": 0.28,
+            "color": "#000000"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Minimal",
+        "category": "Minimal",
+        "glass": {
+            "blur": 10,
+            "opacity": 0.08,
+            "borderOpacity": 0.10,
+            "radius": 16
+        },
+        "shadow": {
+            "x": 0,
+            "y": 10,
+            "blur": 24,
+            "spread": 0,
+            "opacity": 0.18,
+            "color": "#000000"
+        }
+    }
+]
