@@ -1,3 +1,6 @@
+# 🌐 Live Demo: [glasslab.surge.sh](https://glasslab.surge.sh)
+
+
 # 🧪 GlassLab — Glassmorphism Design Playground
 
 **GlassLab** is an interactive, real-time Glassmorphic UI generator built for modern front-end developers and designers. Easily design stunning glassmorphism components with granular control and export production-ready **CSS** or **Tailwind CSS** code with a single click.
@@ -43,4 +46,3 @@ No installations (`npm install`) or local build configurations are required. Sim
 3.  Open `index.html` in your browser (or run it via VS Code's **Live Server** extension).
 
 ---
-
