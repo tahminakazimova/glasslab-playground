@@ -11,6 +11,14 @@ const state = {
         radiusBottomRight: 24,
         radiusBottomLeft: 24
     },
+    gradient: {
+        enabled: false,
+        color1: "#ffffff",
+        opacity1: 0.4,
+        color2: "#ffffff",
+        opacity2: 0.05,
+        angle: 135
+    },
     shadow: {
         x: 0,
         y: 8,
